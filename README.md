@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shirisha3141/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shirisha3141/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
