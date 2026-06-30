@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shirisha3141/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
