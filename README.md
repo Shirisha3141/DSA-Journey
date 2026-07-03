@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shirisha3141/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shirisha3141/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Shirisha3141/DSA-Journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,9 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shirisha3141/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shirisha3141/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Shirisha3141/DSA-Journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shirisha3141/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shirisha3141/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Shirisha3141/DSA-Journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
