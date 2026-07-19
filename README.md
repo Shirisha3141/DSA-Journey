@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0704-binary-search](https://github.com/Shirisha3141/DSA-Journey/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shirisha3141/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shirisha3141/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shirisha3141/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shirisha3141/DSA-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
