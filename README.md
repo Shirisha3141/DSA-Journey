@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Shirisha3141/DSA-Journey/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shirisha3141/DSA-Journey/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Shirisha3141/DSA-Journey/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
