@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shirisha3141/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shirisha3141/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Shirisha3141/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shirisha3141/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -133,10 +135,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shirisha3141/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shirisha3141/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shirisha3141/DSA-Journey/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
