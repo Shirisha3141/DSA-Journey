@@ -10,24 +10,19 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        int co=0;
-        ListNode t=head;
-        while(t!=null){
-            co++;
-            t=t.next;
-        }
-        t=head;
-        int n=co/2;
-        while(n-->0){
-            t=t.next;
+        //int co=0;
+        ListNode f=head;
+        ListNode s=head;
+        while(f!=null && f.next!=null){
+           s=s.next;
+           f=f.next.next;
         }
         ListNode p=null;
-        ListNode c=t;
-        while(c!=null){
-            ListNode next=c.next;
-            c.next=p;
-            p=c;
-            c=next;
+        while(s!=null){
+            ListNode next=s.next;
+            s.next=p;
+            p=s;
+            s=next;
         }
         ListNode l=head;
         while(p!=null){
