@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shirisha3141/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Shirisha3141/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shirisha3141/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shirisha3141/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shirisha3141/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shirisha3141/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shirisha3141/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Shirisha3141/DSA-Journey/tree/master/0338-counting-bits) |
 ## Sliding Window
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shirisha3141/DSA-Journey/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shirisha3141/DSA-Journey/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shirisha3141/DSA-Journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
